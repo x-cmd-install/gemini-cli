@@ -1,0 +1,63 @@
+about:
+  description: An open-source AI agent that brings the power of Gemini directly into your terminal.
+  license: Apache-2.0
+  homepage: https://geminicli.com
+  head: 4963a44
+  archived: false
+  latestVersion: v0.59.0-nightly.20260902.g4963a4456
+  collectedAt: 2026-09-02T04:39:12Z
+timeline:
+  created: 2025-04-17
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-02
+popularity:
+  star: 106762
+  watcher: 583
+  fork: 14515
+  release: 610
+  contributor: 706
+  pullRequest: 6031
+  issue: 14335
+language:
+  TypeScript: 20583359
+  JavaScript: 349818
+  Python: 221907
+  Shell: 31159
+  C#: 24798
+  Dockerfile: 6489
+  HTML: 5474
+  Makefile: 1336
+totalLine: 21224340
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 43
+    mergedPR: 49
+    openPR: 127
+    closedIssue: 16
+    openIssue: 153
+    commit: 48
+  last90d:
+    since: 2026-06-04
+    release: 98
+    mergedPR: 158
+    openPR: 189
+    closedIssue: 216
+    openIssue: 300
+    commit: 149
+  last180d:
+    since: 2026-03-06
+    release: 100
+    mergedPR: 1261
+    openPR: 256
+    closedIssue: 3090
+    openIssue: 435
+    commit: 1257
+  last360d:
+    since: 2025-09-07
+    release: 100
+    mergedPR: 4439
+    openPR: 270
+    closedIssue: 9496
+    openIssue: 560
+    commit: 4166
