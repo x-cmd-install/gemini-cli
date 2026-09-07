@@ -1,0 +1,211 @@
+about:
+  description: "An open-source AI agent that brings the power of Gemini directly into your terminal."
+  license: Apache-2.0
+  homepage: https://geminicli.com
+  head: 85aca16
+  archived: false
+  latestVersion: "v0.60.0-nightly.20260907.g85aca163f"
+  collectedAt: 2026-09-07T05:49:33Z
+timeline:
+  created: 2025-04-17
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-07
+popularity:
+  star: 106841
+  watcher: 584
+  fork: 14535
+  release: 614
+  contributor: 708
+  pullRequest: 12746
+  issue: 14357
+language:
+  TypeScript: 20740398
+  JavaScript: 351396
+  Python: 221907
+  Shell: 31159
+  C#: 24798
+  Dockerfile: 6489
+  HTML: 5474
+  Makefile: 1336
+totalBytes: 21382957
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 40
+    mergedPR: 43
+    openPR: 109
+    closedIssue: 19
+    openIssue: 155
+    commit: 36
+  last60d:
+    since: 2026-07-09
+    release: 73
+    mergedPR: 107
+    openPR: 145
+    closedIssue: 52
+    openIssue: 226
+    commit: 99
+  last90d:
+    since: 2026-06-09
+    release: 97
+    mergedPR: 155
+    openPR: 170
+    closedIssue: 201
+    openIssue: 291
+    commit: 148
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 1152
+    openPR: 239
+    closedIssue: 2861
+    openIssue: 406
+    commit: 1076
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 4344
+    openPR: 260
+    closedIssue: 9301
+    openIssue: 550
+    commit: 4056
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 6681
+    openPR: 260
+    closedIssue: 13587
+    openIssue: 574
+    commit: 6402
+total:
+  release: 614
+  mergedPR: 6681
+  openPR: 260
+  closedIssue: 13781
+  openIssue: 576
+  commit: 6402
+---
+path: /home/runner/.x-repo/github.com/google-gemini/gemini-cli
+collectedAt: 2026-09-07T05:49:48Z
+loc:
+  Json:
+    code: 869118
+    comments: 0
+    blanks: 0
+    files: 58
+  TypeScript:
+    code: 444476
+    comments: 39108
+    blanks: 61104
+    files: 1741
+  Tsx:
+    code: 101469
+    comments: 6064
+    blanks: 12781
+    files: 418
+  JavaScript:
+    code: 9243
+    comments: 1105
+    blanks: 1211
+    files: 64
+  Svg:
+    code: 6396
+    comments: 0
+    blanks: 0
+    files: 98
+  Python:
+    code: 4794
+    comments: 159
+    blanks: 905
+    files: 49
+  Toml:
+    code: 814
+    comments: 173
+    blanks: 67
+    files: 24
+  Sh:
+    code: 641
+    comments: 115
+    blanks: 134
+    files: 9
+  CSharp:
+    code: 461
+    comments: 28
+    blanks: 79
+    files: 1
+  Yaml:
+    code: 240
+    comments: 8
+    blanks: 10
+    files: 4
+  Html:
+    code: 170
+    comments: 0
+    blanks: 0
+    files: 8
+  Dockerfile:
+    code: 122
+    comments: 34
+    blanks: 32
+    files: 6
+  Makefile:
+    code: 42
+    comments: 1
+    blanks: 16
+    files: 1
+  Ini:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19498
+    blanks: 6806
+    files: 156
+  Text:
+    code: 0
+    comments: 1797
+    blanks: 627
+    files: 6
+total:
+  code: 1441663
+  comments: 68614
+  blanks: 84022
+  files: 2644
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:49:50+00:00
+  platform:
+    darwin/arm64:
+      name:  gemini-darwin-arm64-unsigned.zip
+      url:   https://github.com/google-gemini/gemini-cli/releases/download/v0.58.0/gemini-darwin-arm64-unsigned.zip
+      size:  36503655
+      score: 42
+    darwin/amd64:
+      name:  gemini-darwin-x64-unsigned.zip
+      url:   https://github.com/google-gemini/gemini-cli/releases/download/v0.58.0/gemini-darwin-x64-unsigned.zip
+      size:  37989233
+      score: 42
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
