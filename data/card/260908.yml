@@ -5,13 +5,13 @@ about:
   head: 85aca16
   archived: false
   latestVersion: "v0.60.0-nightly.20260908.g85aca163f"
-  collectedAt: 2026-09-08T03:01:56Z
+  collectedAt: 2026-09-08T05:42:17Z
 timeline:
   created: 2025-04-17
   lastCommit: 2026-09-04
   lastRelease: 2026-09-08
 popularity:
-  star: 106856
+  star: 106858
   watcher: 584
   fork: 14541
   release: 615
@@ -86,7 +86,7 @@ total:
   commit: 6402
 ---
 path: /home/runner/.x-repo/github.com/google-gemini/gemini-cli
-collectedAt: 2026-09-08T03:02:28Z
+collectedAt: 2026-09-08T05:42:31Z
 loc:
   Json:
     code: 869118
