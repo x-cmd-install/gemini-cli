@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.61.0-nightly.20260909.ged2ac40df"
   latestRelease: "v0.59.0"
   latestPrerelease: "v0.61.0-nightly.20260909.ged2ac40df"
-  collectedAt: 2026-09-09T05:47:38Z
+  collectedAt: 2026-09-09T20:20:46Z
 timeline:
   created: 2025-04-17
   lastCommit: 2026-09-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-09-09
 popularity:
-  star: 106876
-  watcher: 584
-  fork: 14540
+  star: 106880
+  watcher: 583
+  fork: 14542
   release: 618
   contributor: 710
-  pullRequest: 12773
-  issue: 14362
+  pullRequest: 12776
+  issue: 14364
 language:
   TypeScript: 20764104
   JavaScript: 351396
@@ -37,60 +37,60 @@ recent:
     since: 2026-08-10
     release: 42
     mergedPR: 50
-    openPR: 101
+    openPR: 100
     closedIssue: 20
-    openIssue: 155
+    openIssue: 157
     commit: 43
   last60d:
     since: 2026-07-11
     release: 76
     mergedPR: 113
-    openPR: 138
+    openPR: 137
     closedIssue: 52
-    openIssue: 225
+    openIssue: 227
     commit: 106
   last90d:
     since: 2026-06-11
     release: 96
     mergedPR: 159
-    openPR: 160
+    openPR: 159
     closedIssue: 196
-    openIssue: 287
+    openIssue: 289
     commit: 155
   last180d:
     since: 2026-03-13
     release: 100
     mergedPR: 1093
-    openPR: 229
+    openPR: 228
     closedIssue: 2753
-    openIssue: 395
+    openIssue: 397
     commit: 1083
   last360d:
     since: 2025-09-14
     release: 100
     mergedPR: 4339
-    openPR: 252
+    openPR: 251
     closedIssue: 9269
-    openIssue: 546
+    openIssue: 548
     commit: 4063
   last720d:
     since: 2024-09-19
     release: 100
     mergedPR: 6689
-    openPR: 252
+    openPR: 251
     closedIssue: 13596
-    openIssue: 570
+    openIssue: 572
     commit: 6409
 total:
   release: 618
   mergedPR: 6689
-  openPR: 252
+  openPR: 251
   closedIssue: 13790
-  openIssue: 572
+  openIssue: 574
   commit: 6409
 ---
 path: /home/runner/.x-repo/github.com/google-gemini/gemini-cli
-collectedAt: 2026-09-09T05:47:56Z
+collectedAt: 2026-09-09T20:21:33Z
 loc:
   Json:
     code: 869118
