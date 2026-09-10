@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.61.0-nightly.20260910.ged2ac40df"
   latestRelease: "v0.59.0"
   latestPrerelease: "v0.61.0-nightly.20260910.ged2ac40df"
-  collectedAt: 2026-09-10T20:26:45Z
+  collectedAt: 2026-09-10T23:36:30Z
 timeline:
   created: 2025-04-17
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-09-10
 popularity:
-  star: 106902
+  star: 106901
   watcher: 582
-  fork: 14542
+  fork: 14543
   release: 619
   contributor: 710
-  pullRequest: 12785
+  pullRequest: 12787
   issue: 14367
 language:
   TypeScript: 20764104
@@ -37,7 +37,7 @@ recent:
     since: 2026-08-11
     release: 42
     mergedPR: 48
-    openPR: 98
+    openPR: 100
     closedIssue: 19
     openIssue: 157
     commit: 43
@@ -45,7 +45,7 @@ recent:
     since: 2026-07-12
     release: 77
     mergedPR: 112
-    openPR: 138
+    openPR: 140
     closedIssue: 54
     openIssue: 224
     commit: 106
@@ -53,7 +53,7 @@ recent:
     since: 2026-06-12
     release: 97
     mergedPR: 159
-    openPR: 157
+    openPR: 159
     closedIssue: 200
     openIssue: 284
     commit: 155
@@ -61,7 +61,7 @@ recent:
     since: 2026-03-14
     release: 100
     mergedPR: 1083
-    openPR: 228
+    openPR: 230
     closedIssue: 2717
     openIssue: 388
     commit: 1083
@@ -69,7 +69,7 @@ recent:
     since: 2025-09-15
     release: 100
     mergedPR: 4317
-    openPR: 252
+    openPR: 254
     closedIssue: 9244
     openIssue: 542
     commit: 4063
@@ -77,20 +77,20 @@ recent:
     since: 2024-09-20
     release: 100
     mergedPR: 6689
-    openPR: 252
+    openPR: 254
     closedIssue: 13605
     openIssue: 566
     commit: 6409
 total:
   release: 619
   mergedPR: 6689
-  openPR: 252
+  openPR: 254
   closedIssue: 13799
   openIssue: 568
   commit: 6409
 ---
 path: /home/runner/.x-repo/github.com/google-gemini/gemini-cli
-collectedAt: 2026-09-10T20:27:07Z
+collectedAt: 2026-09-10T23:36:45Z
 loc:
   Json:
     code: 869118
