@@ -32,28 +32,28 @@ Total: **1,438,595** lines of code across **2380** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.61.0-nightly.20260910.ged2ac40df` (2026-09-08)
+- **Latest**: `v0.61.0-nightly.20260911.ged2ac40df` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 106,901 · **Forks**: 14,543 · **Open issues**: 14,367 · **Contributors**: 710
+- **Stars**: 106,910 · **Forks**: 14,546 · **Open issues**: 14,368 · **Contributors**: 710
 
 ## Totals (cumulative)
 
-- **Releases**: 619 · **Merged PRs**: 6689 · **Open PRs**: 254 · **Closed issues**: 13799 · **Open issues**: 568 · **Commits**: 6409
+- **Releases**: 620 · **Merged PRs**: 6689 · **Open PRs**: 253 · **Closed issues**: 13804 · **Open issues**: 564 · **Commits**: 6409
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 42 | 48 | 100 | 19 | 157 | 43 |
-| last60d | 2026-07-12 | 77 | 112 | 140 | 54 | 224 | 106 |
-| 90d | 2026-06-12 | 97 | 159 | 159 | 200 | 284 | 155 |
-| last180d | 2026-03-14 | 100 | 1083 | 230 | 2717 | 388 | 1083 |
-| 360d | 2025-09-15 | 100 | 4317 | 254 | 9244 | 542 | 4063 |
-| last720d | 2024-09-20 | 100 | 6689 | 254 | 13605 | 566 | 6409 |
+| 30d | 2026-08-12 | 39 | 45 | 99 | 19 | 152 | 43 |
+| last60d | 2026-07-13 | 78 | 109 | 139 | 54 | 219 | 106 |
+| 90d | 2026-06-13 | 98 | 159 | 158 | 195 | 281 | 155 |
+| last180d | 2026-03-15 | 100 | 1075 | 229 | 2674 | 384 | 1083 |
+| 360d | 2025-09-16 | 100 | 4291 | 253 | 9209 | 538 | 4063 |
+| last720d | 2024-09-21 | 100 | 6689 | 253 | 13610 | 562 | 6409 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:36:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:43:58Z._
