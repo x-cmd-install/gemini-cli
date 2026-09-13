@@ -32,28 +32,28 @@ Total: **1,441,372** lines of code across **2384** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.61.0-nightly.20260912.g9c1b0a610` (2026-09-08)
+- **Latest**: `v0.61.0-nightly.20260913.g9c1b0a610` (2026-09-08)
 - **Last commit**: 2026-09-11
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 106,930 · **Forks**: 14,556 · **Open issues**: 14,370 · **Contributors**: 711
+- **Stars**: 106,947 · **Forks**: 14,565 · **Open issues**: 14,376 · **Contributors**: 711
 
 ## Totals (cumulative)
 
-- **Releases**: 621 · **Merged PRs**: 6691 · **Open PRs**: 248 · **Closed issues**: 13805 · **Open issues**: 565 · **Commits**: 6411
+- **Releases**: 622 · **Merged PRs**: 6691 · **Open PRs**: 249 · **Closed issues**: 13807 · **Open issues**: 569 · **Commits**: 6411
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 39 | 46 | 94 | 19 | 148 | 45 |
-| last60d | 2026-07-14 | 78 | 111 | 134 | 54 | 221 | 108 |
-| 90d | 2026-06-14 | 98 | 161 | 153 | 186 | 282 | 157 |
-| last180d | 2026-03-16 | 100 | 1046 | 223 | 2592 | 370 | 1085 |
-| 360d | 2025-09-17 | 100 | 4278 | 248 | 9175 | 539 | 4065 |
-| last720d | 2024-09-22 | 100 | 6691 | 248 | 13611 | 563 | 6411 |
+| 30d | 2026-08-14 | 39 | 40 | 95 | 18 | 152 | 45 |
+| last60d | 2026-07-15 | 78 | 107 | 135 | 54 | 227 | 108 |
+| 90d | 2026-06-15 | 99 | 157 | 154 | 181 | 286 | 157 |
+| last180d | 2026-03-17 | 100 | 1028 | 223 | 2533 | 371 | 1085 |
+| 360d | 2025-09-18 | 100 | 4236 | 249 | 9132 | 543 | 4065 |
+| last720d | 2024-09-23 | 100 | 6691 | 249 | 13613 | 567 | 6411 |
 
 ## Release assets
 
@@ -65,7 +65,7 @@ Total: **1,441,372** lines of code across **2384** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/gemini-cli). **6** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **26** distros on [repology.org](https://repology.org/project/gemini-cli). **7** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:35:16Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:56:58Z._
