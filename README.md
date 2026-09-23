@@ -4,7 +4,7 @@
 
 An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-[![x-cmd/install — gemini-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gemini-cli.svg)](https://x-cmd.com/install/gemini-cli)
+[![x-cmd/install — gemini-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gemini-cli.svg)](https://x-cmd.com/install/gemini-cli)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install gemini-cli
 
 ## Code insight
 
-Total: **1,444,540** lines of code across **2394** files in the top 5 languages.
+Total: **1,445,390** lines of code across **2394** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 869,412 | 0 | 0 | 58 |
-| TypeScript | 450,038 | 39,434 | 61,722 | 1754 |
-| Tsx | 102,117 | 6,088 | 12,849 | 419 |
+| Json | 869,599 | 0 | 0 | 58 |
+| TypeScript | 450,695 | 39,448 | 61,792 | 1754 |
+| Tsx | 102,123 | 6,088 | 12,849 | 419 |
 | JavaScript | 9,278 | 1,116 | 1,217 | 65 |
 | Svg | 6,396 | 0 | 0 | 98 |
 
@@ -32,28 +32,28 @@ Total: **1,444,540** lines of code across **2394** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.62.0-nightly.20260922.gd5b3e3acc` (2026-09-15)
-- **Last commit**: 2026-09-21
+- **Latest**: `v0.62.0-nightly.20260923.g62364cb20` (2026-09-15)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 107,128 · **Forks**: 14,609 · **Open issues**: 14,424 · **Contributors**: 711
+- **Stars**: 107,131 · **Forks**: 14,616 · **Open issues**: 14,426 · **Contributors**: 711
 
 ## Totals (cumulative)
 
-- **Releases**: 633 · **Merged PRs**: 6709 · **Open PRs**: 263 · **Closed issues**: 13857 · **Open issues**: 567 · **Commits**: 6429
+- **Releases**: 634 · **Merged PRs**: 6711 · **Open PRs**: 271 · **Closed issues**: 13873 · **Open issues**: 553 · **Commits**: 6430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 39 | 42 | 105 | 31 | 152 | 39 |
-| last60d | 2026-07-24 | 77 | 101 | 142 | 66 | 235 | 103 |
-| 90d | 2026-06-24 | 100 | 157 | 166 | 146 | 290 | 148 |
-| last180d | 2026-03-26 | 100 | 845 | 225 | 2093 | 356 | 829 |
-| 360d | 2025-09-27 | 100 | 4031 | 263 | 8765 | 540 | 3793 |
-| last720d | 2024-10-02 | 100 | 6709 | 263 | 13663 | 565 | 6429 |
+| 30d | 2026-08-24 | 39 | 43 | 107 | 29 | 108 | 40 |
+| last60d | 2026-07-25 | 78 | 103 | 150 | 72 | 230 | 104 |
+| 90d | 2026-06-25 | 100 | 155 | 173 | 152 | 277 | 149 |
+| last180d | 2026-03-27 | 100 | 825 | 233 | 2049 | 342 | 830 |
+| 360d | 2025-09-28 | 100 | 4028 | 271 | 8751 | 526 | 3794 |
+| last720d | 2024-10-03 | 100 | 6711 | 271 | 13679 | 551 | 6430 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:12:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:10:54Z._
