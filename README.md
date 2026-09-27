@@ -38,22 +38,22 @@ Total: **1,448,821** lines of code across **2397** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 107,165 · **Forks**: 14,628 · **Open issues**: 14,434 · **Contributors**: 711
+- **Stars**: 107,165 · **Forks**: 14,627 · **Open issues**: 14,438 · **Contributors**: 711
 
 ## Totals (cumulative)
 
-- **Releases**: 640 · **Merged PRs**: 6723 · **Open PRs**: 272 · **Closed issues**: 13902 · **Open issues**: 532 · **Commits**: 6443
+- **Releases**: 640 · **Merged PRs**: 6723 · **Open PRs**: 278 · **Closed issues**: 13907 · **Open issues**: 531 · **Commits**: 6443
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 39 | 52 | 109 | 31 | 93 | 53 |
-| last60d | 2026-07-28 | 82 | 109 | 154 | 81 | 222 | 117 |
-| 90d | 2026-06-28 | 100 | 165 | 174 | 163 | 265 | 162 |
-| last180d | 2026-03-30 | 100 | 806 | 232 | 1978 | 323 | 843 |
-| 360d | 2025-10-01 | 100 | 3981 | 272 | 8672 | 505 | 3807 |
-| last720d | 2024-10-06 | 100 | 6723 | 272 | 13708 | 530 | 6443 |
+| 30d | 2026-08-28 | 38 | 48 | 114 | 31 | 97 | 53 |
+| last60d | 2026-07-29 | 79 | 107 | 160 | 78 | 223 | 117 |
+| 90d | 2026-06-29 | 100 | 164 | 180 | 156 | 263 | 162 |
+| last180d | 2026-03-31 | 100 | 777 | 236 | 1937 | 322 | 843 |
+| 360d | 2025-10-02 | 100 | 3966 | 278 | 8635 | 504 | 3807 |
+| last720d | 2024-10-07 | 100 | 6723 | 278 | 13713 | 529 | 6443 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:45:20Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:09Z._
