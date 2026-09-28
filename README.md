@@ -32,28 +32,28 @@ Total: **1,448,821** lines of code across **2397** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.63.0-nightly.20260926.g2fe7c2d3f` (2026-09-23)
+- **Latest**: `v0.63.0-nightly.20260928.g2fe7c2d3f` (2026-09-23)
 - **Last commit**: 2026-09-25
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 107,165 · **Forks**: 14,627 · **Open issues**: 14,438 · **Contributors**: 711
+- **Stars**: 107,164 · **Forks**: 14,643 · **Open issues**: 14,443 · **Contributors**: 711
 
 ## Totals (cumulative)
 
-- **Releases**: 640 · **Merged PRs**: 6723 · **Open PRs**: 278 · **Closed issues**: 13907 · **Open issues**: 531 · **Commits**: 6443
+- **Releases**: 641 · **Merged PRs**: 6723 · **Open PRs**: 278 · **Closed issues**: 13911 · **Open issues**: 532 · **Commits**: 6443
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 38 | 48 | 114 | 31 | 97 | 53 |
-| last60d | 2026-07-29 | 79 | 107 | 160 | 78 | 223 | 117 |
-| 90d | 2026-06-29 | 100 | 164 | 180 | 156 | 263 | 162 |
-| last180d | 2026-03-31 | 100 | 777 | 236 | 1937 | 322 | 843 |
-| 360d | 2025-10-02 | 100 | 3966 | 278 | 8635 | 504 | 3807 |
-| last720d | 2024-10-07 | 100 | 6723 | 278 | 13713 | 529 | 6443 |
+| 30d | 2026-08-29 | 38 | 48 | 114 | 35 | 95 | 44 |
+| last60d | 2026-07-30 | 79 | 105 | 160 | 80 | 221 | 111 |
+| 90d | 2026-06-30 | 100 | 162 | 180 | 158 | 264 | 158 |
+| last180d | 2026-04-01 | 100 | 745 | 236 | 1909 | 323 | 717 |
+| 360d | 2025-10-03 | 100 | 3947 | 278 | 8608 | 505 | 3725 |
+| last720d | 2024-10-08 | 100 | 6723 | 278 | 13717 | 530 | 6443 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:09Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:17:38Z._
