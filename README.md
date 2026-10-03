@@ -14,13 +14,13 @@ x install gemini-cli
 
 ## Code insight
 
-Total: **1,454,663** lines of code across **2405** files in the top 5 languages.
+Total: **1,454,818** lines of code across **2405** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 869,599 | 0 | 0 | 58 |
-| TypeScript | 458,989 | 39,836 | 62,648 | 1764 |
-| Tsx | 103,102 | 6,125 | 12,976 | 420 |
+| TypeScript | 459,014 | 39,836 | 62,651 | 1764 |
+| Tsx | 103,232 | 6,123 | 12,989 | 420 |
 | JavaScript | 9,278 | 1,116 | 1,217 | 65 |
 | Svg | 6,396 | 0 | 0 | 98 |
 
@@ -32,28 +32,28 @@ Total: **1,454,663** lines of code across **2405** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.64.0-nightly.20261002.gc9096a847` (2026-09-29)
-- **Last commit**: 2026-10-01
+- **Latest**: `v0.64.0-nightly.20261003.gfb972b2f8` (2026-09-29)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 107,221 · **Forks**: 14,680 · **Open issues**: 14,468 · **Contributors**: 712
+- **Stars**: 107,219 · **Forks**: 14,683 · **Open issues**: 14,469 · **Contributors**: 712
 
 ## Totals (cumulative)
 
-- **Releases**: 647 · **Merged PRs**: 6741 · **Open PRs**: 273 · **Closed issues**: 13952 · **Open issues**: 516 · **Commits**: 6461
+- **Releases**: 648 · **Merged PRs**: 6742 · **Open PRs**: 272 · **Closed issues**: 13953 · **Open issues**: 516 · **Commits**: 6462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 38 | 59 | 106 | 42 | 95 | 62 |
-| last60d | 2026-08-03 | 80 | 119 | 153 | 92 | 213 | 129 |
-| 90d | 2026-07-04 | 100 | 179 | 175 | 174 | 260 | 176 |
-| last180d | 2026-04-05 | 100 | 710 | 230 | 1818 | 312 | 735 |
-| 360d | 2025-10-07 | 100 | 3927 | 273 | 8566 | 489 | 3743 |
-| last720d | 2024-10-12 | 100 | 6741 | 273 | 13758 | 514 | 6461 |
+| 30d | 2026-09-03 | 38 | 59 | 107 | 39 | 93 | 63 |
+| last60d | 2026-08-04 | 80 | 117 | 152 | 91 | 211 | 130 |
+| 90d | 2026-07-05 | 100 | 180 | 174 | 159 | 257 | 177 |
+| last180d | 2026-04-06 | 100 | 695 | 228 | 1782 | 312 | 736 |
+| 360d | 2025-10-08 | 100 | 3906 | 272 | 8516 | 489 | 3744 |
+| last720d | 2024-10-13 | 100 | 6742 | 272 | 13759 | 514 | 6462 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:42:10Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:14:29Z._
