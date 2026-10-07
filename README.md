@@ -14,13 +14,13 @@ x install gemini-cli
 
 ## Code insight
 
-Total: **1,454,818** lines of code across **2405** files in the top 5 languages.
+Total: **1,456,784** lines of code across **2406** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 869,599 | 0 | 0 | 58 |
-| TypeScript | 459,014 | 39,836 | 62,651 | 1764 |
-| Tsx | 103,232 | 6,123 | 12,989 | 420 |
+| Json | 869,611 | 0 | 0 | 58 |
+| TypeScript | 460,712 | 39,917 | 62,833 | 1765 |
+| Tsx | 103,488 | 6,131 | 13,034 | 420 |
 | JavaScript | 9,278 | 1,116 | 1,217 | 65 |
 | Svg | 6,396 | 0 | 0 | 98 |
 
@@ -32,36 +32,36 @@ Total: **1,454,818** lines of code across **2405** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.64.0-nightly.20261006.gfb972b2f8` (2026-09-29)
-- **Last commit**: 2026-10-02
+- **Latest**: `v0.65.0-nightly.20261007.gef59c532f` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 107,245 · **Forks**: 14,699 · **Open issues**: 14,478 · **Contributors**: 712
+- **Stars**: 107,239 · **Forks**: 14,701 · **Open issues**: 14,481 · **Contributors**: 712
 
 ## Totals (cumulative)
 
-- **Releases**: 650 · **Merged PRs**: 6742 · **Open PRs**: 272 · **Closed issues**: 13966 · **Open issues**: 512 · **Commits**: 6462
+- **Releases**: 653 · **Merged PRs**: 6750 · **Open PRs**: 271 · **Closed issues**: 13971 · **Open issues**: 510 · **Commits**: 6470
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 38 | 56 | 106 | 36 | 92 | 0 |
-| last60d | 2026-08-07 | 79 | 104 | 150 | 87 | 213 | 0 |
-| 90d | 2026-07-08 | 100 | 171 | 173 | 156 | 257 | 0 |
-| last180d | 2026-04-09 | 100 | 639 | 224 | 1655 | 308 | 0 |
-| 360d | 2025-10-11 | 100 | 3855 | 272 | 8411 | 486 | 0 |
-| last720d | 2024-10-16 | 100 | 6742 | 272 | 13772 | 510 | 6462 |
+| 30d | 2026-09-07 | 40 | 64 | 103 | 40 | 87 | 61 |
+| last60d | 2026-08-08 | 79 | 112 | 147 | 90 | 212 | 111 |
+| 90d | 2026-07-09 | 100 | 176 | 172 | 150 | 256 | 172 |
+| last180d | 2026-04-10 | 100 | 626 | 223 | 1632 | 307 | 631 |
+| 360d | 2025-10-12 | 100 | 3862 | 271 | 8391 | 484 | 3632 |
+| last720d | 2024-10-17 | 100 | 6750 | 271 | 13777 | 508 | 6470 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.62.0/gemini-cli-bundle.zip) | 20.2 MiB | `other` |
-| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.62.0/gemini-darwin-arm64-unsigned.zip) | 34.8 MiB | `native/darwin/arm64` |
-| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.62.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
+| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.63.0/gemini-cli-bundle.zip) | 20.2 MiB | `other` |
+| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.63.0/gemini-darwin-arm64-unsigned.zip) | 34.8 MiB | `native/darwin/arm64` |
+| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.63.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:18:50Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:56:55Z._
