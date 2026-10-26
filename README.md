@@ -38,22 +38,22 @@ Total: **1,473,168** lines of code across **2415** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 108,192 · **Forks**: 14,819 · **Open issues**: 14,555 · **Contributors**: 713
+- **Stars**: 108,388 · **Forks**: 14,838 · **Open issues**: 14,568 · **Contributors**: 713
 
 ## Totals (cumulative)
 
-- **Releases**: 673 · **Merged PRs**: 6815 · **Open PRs**: 269 · **Closed issues**: 14061 · **Open issues**: 494 · **Commits**: 6534
+- **Releases**: 673 · **Merged PRs**: 6815 · **Open PRs**: 278 · **Closed issues**: 14064 · **Open issues**: 504 · **Commits**: 6534
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 35 | 87 | 100 | 22 | 108 | 97 |
-| last60d | 2026-08-26 | 73 | 144 | 134 | 87 | 173 | 145 |
-| 90d | 2026-07-27 | 100 | 207 | 166 | 174 | 264 | 215 |
-| last180d | 2026-04-28 | 100 | 555 | 209 | 1209 | 297 | 590 |
-| 360d | 2025-10-30 | 100 | 3566 | 269 | 7763 | 466 | 3429 |
-| last720d | 2024-11-04 | 100 | 6815 | 269 | 13867 | 492 | 6534 |
+| 30d | 2026-09-26 | 34 | 86 | 109 | 22 | 117 | 73 |
+| last60d | 2026-08-27 | 72 | 144 | 143 | 86 | 181 | 142 |
+| 90d | 2026-07-28 | 100 | 201 | 175 | 172 | 274 | 203 |
+| last180d | 2026-04-29 | 100 | 534 | 218 | 1173 | 307 | 487 |
+| 360d | 2025-10-31 | 100 | 3527 | 278 | 7734 | 476 | 3311 |
+| last720d | 2024-11-05 | 100 | 6815 | 278 | 13870 | 502 | 6534 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:27:53Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:41:58Z._
