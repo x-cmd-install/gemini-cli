@@ -1,14 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gemini-cli
-  binname: gemini-cli
-  visiblename: gemini-cli
-  version: 0.62.0
-  origversion: 1:0.62.0-1
-  status: outdated
-  summary: Open-source AI agent that brings the power of Gemini directly into your terminal
-  licenses:
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: gemini-cli
@@ -20,13 +9,13 @@
   summary: Open-source AI agent that brings the power of Gemini directly into your terminal
   licenses:
     - Apache-2.0
-- repo: manjaro_stable
+- repo: parabola
   subrepo: extra
   srcname: gemini-cli
   binname: gemini-cli
   visiblename: gemini-cli
-  version: 0.50.0
-  origversion: 1:0.50.0-1
+  version: 0.65.0
+  origversion: 1:0.65.0-1
   status: outdated
   summary: Open-source AI agent that brings the power of Gemini directly into your terminal
   licenses:
@@ -38,7 +27,7 @@
   visiblename: gemini-cli
   version: 0.65.0
   origversion: 1:0.65.0-1
-  status: newest
+  status: outdated
   summary: Open-source AI agent that brings the power of Gemini directly into your terminal
   licenses:
     - Apache-2.0
@@ -76,9 +65,9 @@
 - repo: gentoo_ovl_guru
   srcname: dev-util/gemini-cli
   visiblename: dev-util/gemini-cli
-  version: 0.63.0
+  version: 0.66.0
   origversion: null
-  status: legacy
+  status: newest
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -91,7 +80,7 @@
   visiblename: dev-util/gemini-cli
   version: 0.64.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -102,7 +91,7 @@
 - repo: homebrew
   srcname: gemini-cli
   visiblename: gemini-cli
-  version: 0.65.0
+  version: 0.66.0
   origversion: null
   status: newest
   summary: Interact with Google Gemini AI models from the command-line
@@ -165,7 +154,7 @@
   visiblename: gemini-cli
   version: 0.65.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Use Google Gemini from your terminal
   maintainers:
     - breun@macports
@@ -174,13 +163,35 @@
     - Apache-2
   categories:
     - llm
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gemini-cli
+  binname: gemini-cli
+  visiblename: gemini-cli
+  version: 0.50.0
+  origversion: 1:0.50.0-1
+  status: outdated
+  summary: Open-source AI agent that brings the power of Gemini directly into your terminal
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gemini-cli
+  binname: gemini-cli
+  visiblename: gemini-cli
+  version: 0.62.0
+  origversion: 1:0.62.0-1
+  status: outdated
+  summary: Open-source AI agent that brings the power of Gemini directly into your terminal
+  licenses:
+    - Apache-2.0
 - repo: msys2_clang64
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-clang-x86_64-gemini-cli
   visiblename: mingw-w64-clang-x86_64-gemini-cli
   version: 0.65.0
   origversion: 0.65.0-1
-  status: newest
+  status: outdated
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - Apache-2.0
@@ -190,7 +201,7 @@
   visiblename: mingw-w64-clang-aarch64-gemini-cli
   version: 0.65.0
   origversion: 0.65.0-1
-  status: newest
+  status: outdated
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - Apache-2.0
@@ -200,7 +211,7 @@
   visiblename: mingw-w64-ucrt-x86_64-gemini-cli
   version: 0.65.0
   origversion: 0.65.0-1
-  status: newest
+  status: outdated
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - Apache-2.0
@@ -270,14 +281,3 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: gemini-cli
-  binname: gemini-cli
-  visiblename: gemini-cli
-  version: 0.65.0
-  origversion: 1:0.65.0-1
-  status: newest
-  summary: Open-source AI agent that brings the power of Gemini directly into your terminal
-  licenses:
-    - Apache-2.0
