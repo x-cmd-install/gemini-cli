@@ -1,0 +1,182 @@
+about:
+  description: "An open-source AI agent that brings the power of Gemini directly into your terminal."
+  license: Apache-2.0
+  homepage: https://geminicli.com
+  head: b633c07
+  archived: false
+  latestVersion: "v0.67.0-nightly.20261030.gb633c0703"
+  latestRelease: "v0.66.0"
+  latestPrerelease: "v0.67.0-nightly.20261030.gb633c0703"
+  collectedAt: 2026-10-30T06:49:39Z
+timeline:
+  created: 2025-04-17
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-27
+  lastPrerelease: 2026-10-30
+popularity:
+  star: 108624
+  watcher: 591
+  fork: 14878
+  release: 678
+  contributor: 715
+  pullRequest: 13251
+  issue: 14584
+language:
+  TypeScript: 22283547
+  JavaScript: 352824
+  Python: 221907
+  Shell: 31159
+  C#: 24798
+  Dockerfile: 6641
+  HTML: 5474
+  Makefile: 1336
+totalBytes: 22927686
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 34
+    mergedPR: 97
+    openPR: 117
+    closedIssue: 18
+    openIssue: 121
+    commit: 101
+  last60d:
+    since: 2026-08-31
+    release: 73
+    mergedPR: 168
+    openPR: 152
+    closedIssue: 89
+    openIssue: 182
+    commit: 170
+  last90d:
+    since: 2026-08-01
+    release: 100
+    mergedPR: 222
+    openPR: 184
+    closedIssue: 182
+    openIssue: 265
+    commit: 231
+  last180d:
+    since: 2026-05-03
+    release: 100
+    mergedPR: 519
+    openPR: 227
+    closedIssue: 1119
+    openIssue: 293
+    commit: 515
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 3508
+    openPR: 287
+    closedIssue: 7699
+    openIssue: 457
+    commit: 3339
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 6843
+    openPR: 287
+    closedIssue: 13905
+    openIssue: 483
+    commit: 6562
+total:
+  release: 678
+  mergedPR: 6843
+  openPR: 287
+  closedIssue: 14099
+  openIssue: 485
+  commit: 6562
+---
+path: /home/runner/.x-repo/github.com/google-gemini/gemini-cli
+collectedAt: 2026-10-30T06:49:53Z
+loc:
+  Json:
+    code: 869626
+    comments: 0
+    blanks: 0
+    files: 58
+  TypeScript:
+    code: 478537
+    comments: 41013
+    blanks: 65074
+    files: 1778
+  Tsx:
+    code: 107083
+    comments: 6334
+    blanks: 13486
+    files: 422
+  JavaScript:
+    code: 9279
+    comments: 1116
+    blanks: 1217
+    files: 65
+  Svg:
+    code: 6396
+    comments: 0
+    blanks: 0
+    files: 98
+  Python:
+    code: 4794
+    comments: 159
+    blanks: 905
+    files: 49
+  Toml:
+    code: 814
+    comments: 173
+    blanks: 67
+    files: 24
+  Sh:
+    code: 641
+    comments: 115
+    blanks: 134
+    files: 9
+  CSharp:
+    code: 461
+    comments: 28
+    blanks: 79
+    files: 1
+  Yaml:
+    code: 240
+    comments: 8
+    blanks: 10
+    files: 4
+  Html:
+    code: 170
+    comments: 0
+    blanks: 0
+    files: 8
+  Dockerfile:
+    code: 124
+    comments: 35
+    blanks: 33
+    files: 6
+  Makefile:
+    code: 42
+    comments: 1
+    blanks: 16
+    files: 1
+  Ini:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19834
+    blanks: 6824
+    files: 156
+  Text:
+    code: 0
+    comments: 1797
+    blanks: 627
+    files: 6
+total:
+  code: 1481957
+  comments: 71137
+  blanks: 88722
+  files: 2686
+---
+
+---
