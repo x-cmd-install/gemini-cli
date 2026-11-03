@@ -240,9 +240,9 @@
   binnames:
     - gemini-cli
   visiblename: gemini-cli
-  version: 0.64.0
-  origversion: 0.64.0-1.1
-  status: outdated
+  version: 0.66.0
+  origversion: 0.66.0-1.1
+  status: newest
   summary: An AI agent that brings the power of Gemini directly into your terminal
   licenses:
     - Apache-2.0
