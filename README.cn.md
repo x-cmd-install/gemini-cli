@@ -14,15 +14,15 @@ x install gemini-cli
 
 ## 代码洞察
 
-合计: **1,482,303** 行代码（覆盖前 5 种语言、共 **2423** 个文件）。
+合计: **1,484,859** 行代码（覆盖前 5 种语言、共 **2430** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 869,616 | 0 | 0 | 58 |
-| TypeScript | 482,603 | 41,154 | 65,575 | 1780 |
-| Tsx | 107,110 | 6,334 | 13,486 | 422 |
+| TypeScript | 483,878 | 41,222 | 65,719 | 1783 |
+| Tsx | 107,834 | 6,344 | 13,555 | 424 |
 | JavaScript | 9,279 | 1,116 | 1,217 | 65 |
-| Svg | 6,396 | 0 | 0 | 98 |
+| Svg | 6,953 | 0 | 0 | 100 |
 
 ## 源代码
 
@@ -32,47 +32,36 @@ x install gemini-cli
 
 ## 发布
 
-- **最新版本**: `v0.67.0-nightly.20261104.g89e9d25d6` (2026-10-27)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v0.67.0` (2026-11-04)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 108,714 · **Fork**: 14,917 · **开放 issue**: 14,606 · **贡献者**: 715
+- **Star**: 108,732 · **Fork**: 14,917 · **开放 issue**: 14,609 · **贡献者**: 715
 
 ## 累计统计
 
-- **发布数**: 683 · **已合并 PR**: 6856 · **开放 PR**: 294 · **已关闭 issue**: 14129 · **开放 issue**: 477 · **提交数**: 6575
+- **发布数**: 685 · **已合并 PR**: 6861 · **开放 PR**: 303 · **已关闭 issue**: 14132 · **开放 issue**: 477 · **提交数**: 6580
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 35 | 101 | 126 | 15 | 127 | 96 |
-| last60d | 2026-09-05 | 72 | 170 | 160 | 88 | 184 | 166 |
-| 90d | 2026-08-06 | 100 | 222 | 189 | 178 | 264 | 221 |
-| last180d | 2026-05-08 | 100 | 462 | 233 | 1009 | 290 | 456 |
-| 360d | 2025-11-09 | 100 | 3469 | 294 | 7589 | 448 | 3266 |
-| last720d | 2024-11-14 | 100 | 6856 | 294 | 13935 | 475 | 6575 |
+| 30d | 2026-10-06 | 36 | 101 | 134 | 14 | 127 | 101 |
+| last60d | 2026-09-06 | 73 | 175 | 169 | 89 | 183 | 171 |
+| 90d | 2026-08-07 | 100 | 223 | 196 | 180 | 263 | 226 |
+| last180d | 2026-05-09 | 100 | 466 | 242 | 981 | 289 | 461 |
+| 360d | 2025-11-10 | 100 | 3464 | 303 | 7562 | 447 | 3271 |
+| last720d | 2024-11-15 | 100 | 6861 | 303 | 13938 | 475 | 6580 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.66.0/gemini-cli-bundle.zip) | 20.3 MiB | `other` |
-| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.66.0/gemini-darwin-arm64-unsigned.zip) | 34.9 MiB | `native/darwin/arm64` |
-| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.66.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gemini-cli) 上共有 **22** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.66.0` | ✅ latest |
-| Homebrew | `0.66.0` | ✅ latest |
-| Nix unstable | `0.47.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.66.0` | ✅ latest |
+| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-cli-bundle.zip) | 20.3 MiB | `other` |
+| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-arm64-unsigned.zip) | 34.9 MiB | `native/darwin/arm64` |
+| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
 
 ## 改进这些数据
 
@@ -83,4 +72,4 @@ gemini-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:20:27Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:37:27Z._
