@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 21291052,
       "digest": "sha256:53371261bc56ebd5b3d1d6c400e07854e8d674f4e06365bae38443c1dc1312d3",
-      "download_count": 332,
+      "download_count": 440,
       "created_at": "2026-11-04T20:27:06Z",
       "updated_at": "2026-11-04T20:27:09Z",
       "browser_download_url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-cli-bundle.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 36579712,
       "digest": "sha256:2c27238fab3ba28dfe0639a77c0f9dd74aa72e1adfe2e1fbf4d50ec033367bb8",
-      "download_count": 35,
+      "download_count": 54,
       "created_at": "2026-11-04T20:27:06Z",
       "updated_at": "2026-11-04T20:27:09Z",
       "browser_download_url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-arm64-unsigned.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 38069737,
       "digest": "sha256:02238a01863a041d666134bbf042400cedba97bea017e2cd371ea3beaee483f6",
-      "download_count": 83,
+      "download_count": 117,
       "created_at": "2026-11-04T20:27:06Z",
       "updated_at": "2026-11-04T20:27:10Z",
       "browser_download_url": "https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-x64-unsigned.zip"
