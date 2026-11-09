@@ -38,22 +38,22 @@ Total: **1,492,673** lines of code across **2433** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 108,774 · **Forks**: 14,932 · **Open issues**: 14,620 · **Contributors**: 715
+- **Stars**: 108,797 · **Forks**: 14,932 · **Open issues**: 14,621 · **Contributors**: 715
 
 ## Totals (cumulative)
 
-- **Releases**: 685 · **Merged PRs**: 6881 · **Open PRs**: 294 · **Closed issues**: 14161 · **Open issues**: 459 · **Commits**: 6600
+- **Releases**: 685 · **Merged PRs**: 6881 · **Open PRs**: 284 · **Closed issues**: 14167 · **Open issues**: 454 · **Commits**: 6600
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 31 | 113 | 125 | 23 | 119 | 121 |
-| last60d | 2026-09-09 | 68 | 190 | 159 | 102 | 175 | 191 |
-| 90d | 2026-08-10 | 100 | 243 | 186 | 204 | 247 | 246 |
-| last180d | 2026-05-12 | 100 | 451 | 231 | 887 | 271 | 481 |
-| 360d | 2025-11-13 | 100 | 3424 | 294 | 7503 | 429 | 3291 |
-| last720d | 2024-11-18 | 100 | 6881 | 294 | 13967 | 457 | 6600 |
+| 30d | 2026-10-10 | 30 | 113 | 114 | 21 | 117 | 98 |
+| last60d | 2026-09-10 | 67 | 190 | 149 | 100 | 174 | 183 |
+| 90d | 2026-08-11 | 100 | 241 | 174 | 205 | 243 | 232 |
+| last180d | 2026-05-13 | 100 | 439 | 221 | 863 | 266 | 417 |
+| 360d | 2025-11-14 | 100 | 3410 | 284 | 7460 | 424 | 3222 |
+| last720d | 2024-11-19 | 100 | 6881 | 284 | 13973 | 452 | 6600 |
 
 ## Release assets
 
@@ -65,7 +65,7 @@ Total: **1,492,673** lines of code across **2433** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/gemini-cli). **2** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **24** distros on [repology.org](https://repology.org/project/gemini-cli). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:55:19Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:35:06Z._
