@@ -14,12 +14,12 @@ x install gemini-cli
 
 ## 代码洞察
 
-合计: **1,495,171** 行代码（覆盖前 5 种语言、共 **2435** 个文件）。
+合计: **1,495,698** 行代码（覆盖前 5 种语言、共 **2435** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 869,623 | 0 | 0 | 58 |
-| TypeScript | 493,463 | 41,511 | 66,605 | 1788 |
+| TypeScript | 493,990 | 41,530 | 66,655 | 1788 |
 | Tsx | 108,553 | 6,374 | 13,643 | 424 |
 | JavaScript | 9,279 | 1,116 | 1,217 | 65 |
 | Svg | 6,953 | 0 | 0 | 100 |
@@ -32,36 +32,36 @@ x install gemini-cli
 
 ## 发布
 
-- **最新版本**: `v0.67.0` (2026-11-04)
-- **最近提交**: 2026-11-09
+- **最新版本**: `v0.68.0` (2026-11-10)
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 108,747 · **Fork**: 14,929 · **开放 issue**: 14,623 · **贡献者**: 715
+- **Star**: 108,768 · **Fork**: 14,925 · **开放 issue**: 14,626 · **贡献者**: 715
 
 ## 累计统计
 
-- **发布数**: 685 · **已合并 PR**: 6887 · **开放 PR**: 279 · **已关闭 issue**: 14176 · **开放 issue**: 447 · **提交数**: 6606
+- **发布数**: 687 · **已合并 PR**: 6892 · **开放 PR**: 274 · **已关闭 issue**: 14180 · **开放 issue**: 446 · **提交数**: 6611
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 29 | 119 | 110 | 23 | 115 | 104 |
-| last60d | 2026-09-11 | 66 | 196 | 144 | 101 | 174 | 189 |
-| 90d | 2026-08-12 | 100 | 244 | 170 | 208 | 237 | 238 |
-| last180d | 2026-05-14 | 100 | 433 | 216 | 851 | 260 | 423 |
-| 360d | 2025-11-15 | 100 | 3409 | 279 | 7434 | 417 | 3228 |
-| last720d | 2024-11-20 | 100 | 6887 | 279 | 13982 | 445 | 6606 |
+| 30d | 2026-10-12 | 31 | 119 | 105 | 23 | 113 | 109 |
+| last60d | 2026-09-12 | 67 | 201 | 139 | 99 | 175 | 194 |
+| 90d | 2026-08-13 | 100 | 248 | 165 | 206 | 236 | 243 |
+| last180d | 2026-05-15 | 100 | 434 | 211 | 833 | 257 | 428 |
+| 360d | 2025-11-16 | 100 | 3411 | 274 | 7413 | 416 | 3233 |
+| last720d | 2024-11-21 | 100 | 6892 | 274 | 13986 | 444 | 6611 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-cli-bundle.zip) | 20.3 MiB | `other` |
-| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-arm64-unsigned.zip) | 34.9 MiB | `native/darwin/arm64` |
-| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.67.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
+| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-cli-bundle.zip) | 20.3 MiB | `other` |
+| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-darwin-arm64-unsigned.zip) | 34.9 MiB | `native/darwin/arm64` |
+| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
 
 ## 发行版状态
 
@@ -83,4 +83,4 @@ gemini-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:27:39Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:30:28Z._
