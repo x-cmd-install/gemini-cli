@@ -45,7 +45,7 @@
   visiblename: dev-util/gemini-cli
   version: 0.67.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -69,7 +69,7 @@
 - repo: homebrew
   srcname: gemini-cli
   visiblename: gemini-cli
-  version: 0.67.0
+  version: 0.68.0
   origversion: null
   status: newest
   summary: Interact with Google Gemini AI models from the command-line
@@ -105,7 +105,7 @@
   visiblename: dev-util/gemini-cli
   version: 0.67.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -130,7 +130,7 @@
   srcname: llm/gemini-cli
   binname: gemini-cli
   visiblename: gemini-cli
-  version: 0.67.0
+  version: 0.68.0
   origversion: null
   status: newest
   summary: Use Google Gemini from your terminal
@@ -180,7 +180,7 @@
   visiblename: mingw-w64-clang-x86_64-gemini-cli
   version: 0.67.0
   origversion: 0.67.0-1
-  status: newest
+  status: outdated
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - Apache-2.0
@@ -190,7 +190,7 @@
   visiblename: mingw-w64-clang-aarch64-gemini-cli
   version: 0.67.0
   origversion: 0.67.0-1
-  status: newest
+  status: outdated
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - Apache-2.0
@@ -200,7 +200,7 @@
   visiblename: mingw-w64-ucrt-x86_64-gemini-cli
   version: 0.67.0
   origversion: 0.67.0-1
-  status: newest
+  status: outdated
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - Apache-2.0
