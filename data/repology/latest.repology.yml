@@ -45,7 +45,7 @@
   visiblename: dev-util/gemini-cli
   version: 0.67.0
   origversion: null
-  status: outdated
+  status: legacy
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -56,9 +56,9 @@
 - repo: gentoo_ovl_guru
   srcname: dev-util/gemini-cli
   visiblename: dev-util/gemini-cli
-  version: 0.66.0
+  version: 0.68.0
   origversion: null
-  status: legacy
+  status: newest
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -103,9 +103,9 @@
 - repo: liguros_develop
   srcname: dev-util/gemini-cli
   visiblename: dev-util/gemini-cli
-  version: 0.67.0
+  version: 0.68.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Gemini CLI - a command-line AI workflow tool by Google
   maintainers:
     - vowstar@gmail.com
@@ -116,7 +116,7 @@
 - repo: liguros_develop
   srcname: dev-util/gemini-cli
   visiblename: dev-util/gemini-cli
-  version: 0.66.0
+  version: 0.67.0
   origversion: null
   status: legacy
   summary: Gemini CLI - a command-line AI workflow tool by Google
