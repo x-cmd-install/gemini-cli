@@ -38,22 +38,22 @@ Total: **1,498,245** lines of code across **2435** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 108,820 · **Forks**: 14,953 · **Open issues**: 14,650 · **Contributors**: 715
+- **Stars**: 108,838 · **Forks**: 14,955 · **Open issues**: 14,654 · **Contributors**: 715
 
 ## Totals (cumulative)
 
-- **Releases**: 687 · **Merged PRs**: 6902 · **Open PRs**: 269 · **Closed issues**: 14198 · **Open issues**: 452 · **Commits**: 6621
+- **Releases**: 687 · **Merged PRs**: 6902 · **Open PRs**: 271 · **Closed issues**: 14197 · **Open issues**: 457 · **Commits**: 6621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 26 | 114 | 102 | 31 | 121 | 119 |
-| last60d | 2026-09-15 | 64 | 201 | 135 | 96 | 183 | 204 |
-| 90d | 2026-08-16 | 100 | 251 | 160 | 214 | 241 | 253 |
-| last180d | 2026-05-18 | 100 | 432 | 205 | 801 | 263 | 438 |
-| 360d | 2025-11-19 | 100 | 3369 | 269 | 7280 | 422 | 3243 |
-| last720d | 2024-11-24 | 100 | 6902 | 269 | 14004 | 450 | 6621 |
+| 30d | 2026-10-16 | 26 | 110 | 103 | 31 | 122 | 119 |
+| last60d | 2026-09-16 | 61 | 201 | 136 | 94 | 184 | 204 |
+| 90d | 2026-08-17 | 100 | 245 | 162 | 214 | 244 | 253 |
+| last180d | 2026-05-19 | 100 | 423 | 207 | 770 | 268 | 438 |
+| 360d | 2025-11-20 | 100 | 3338 | 271 | 7243 | 427 | 3243 |
+| last720d | 2024-11-25 | 100 | 6902 | 271 | 14003 | 455 | 6621 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:51:09Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:43:06Z._
