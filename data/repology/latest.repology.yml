@@ -1,3 +1,16 @@
+- repo: liguros_develop
+  srcname: dev-util/gemini-cli
+  visiblename: dev-util/gemini-cli
+  version: 0.67.0
+  origversion: null
+  status: legacy
+  summary: Gemini CLI - a command-line AI workflow tool by Google
+  maintainers:
+    - vowstar@gmail.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - dev-util
 - repo: arch
   subrepo: extra
   srcname: gemini-cli
@@ -113,19 +126,6 @@
     - Apache-2.0
   categories:
     - dev-util
-- repo: liguros_develop
-  srcname: dev-util/gemini-cli
-  visiblename: dev-util/gemini-cli
-  version: 0.67.0
-  origversion: null
-  status: legacy
-  summary: Gemini CLI - a command-line AI workflow tool by Google
-  maintainers:
-    - vowstar@gmail.com
-  licenses:
-    - Apache-2.0
-  categories:
-    - dev-util
 - repo: macports
   srcname: llm/gemini-cli
   binname: gemini-cli
@@ -178,32 +178,32 @@
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-clang-x86_64-gemini-cli
   visiblename: mingw-w64-clang-x86_64-gemini-cli
-  version: 0.67.0
-  origversion: 0.67.0-1
-  status: outdated
+  version: 0.68.0
+  origversion: 0.68.0-1
+  status: newest
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
-    - Apache-2.0
+    - spdx:Apache-2.0
 - repo: msys2_clangarm64
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-clang-aarch64-gemini-cli
   visiblename: mingw-w64-clang-aarch64-gemini-cli
-  version: 0.67.0
-  origversion: 0.67.0-1
-  status: outdated
+  version: 0.68.0
+  origversion: 0.68.0-1
+  status: newest
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
-    - Apache-2.0
+    - spdx:Apache-2.0
 - repo: msys2_ucrt64
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-ucrt-x86_64-gemini-cli
   visiblename: mingw-w64-ucrt-x86_64-gemini-cli
-  version: 0.67.0
-  origversion: 0.67.0-1
-  status: outdated
+  version: 0.68.0
+  origversion: 0.68.0-1
+  status: newest
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
-    - Apache-2.0
+    - spdx:Apache-2.0
 - repo: nix_stable_25_05
   srcname: gemini-cli
   visiblename: gemini-cli
