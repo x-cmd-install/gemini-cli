@@ -14,12 +14,12 @@ x install gemini-cli
 
 ## Code insight
 
-Total: **1,499,682** lines of code across **2435** files in the top 5 languages.
+Total: **1,501,887** lines of code across **2440** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 869,623 | 0 | 0 | 58 |
-| TypeScript | 497,800 | 41,550 | 66,945 | 1788 |
+| Json | 868,964 | 0 | 0 | 58 |
+| TypeScript | 500,645 | 41,791 | 67,320 | 1793 |
 | Tsx | 108,727 | 6,380 | 13,668 | 424 |
 | JavaScript | 9,279 | 1,116 | 1,217 | 65 |
 | Svg | 6,953 | 0 | 0 | 100 |
@@ -32,44 +32,44 @@ Total: **1,499,682** lines of code across **2435** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.68.0` (2026-11-10)
-- **Last commit**: 2026-11-16
+- **Latest**: `v0.69.0` (2026-11-19)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 108,888 · **Forks**: 14,956 · **Open issues**: 14,666 · **Contributors**: 715
+- **Stars**: 108,936 · **Forks**: 14,964 · **Open issues**: 14,671 · **Contributors**: 716
 
 ## Totals (cumulative)
 
-- **Releases**: 687 · **Merged PRs**: 6903 · **Open PRs**: 273 · **Closed issues**: 14204 · **Open issues**: 462 · **Commits**: 6622
+- **Releases**: 689 · **Merged PRs**: 6914 · **Open PRs**: 270 · **Closed issues**: 14207 · **Open issues**: 464 · **Commits**: 6633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 24 | 111 | 103 | 29 | 125 | 0 |
-| last60d | 2026-09-18 | 59 | 196 | 136 | 86 | 194 | 0 |
-| 90d | 2026-08-19 | 99 | 241 | 162 | 212 | 246 | 0 |
-| last180d | 2026-05-21 | 100 | 417 | 209 | 741 | 273 | 0 |
-| 360d | 2025-11-22 | 100 | 3314 | 273 | 7172 | 432 | 0 |
-| last720d | 2024-11-27 | 100 | 6903 | 273 | 14010 | 460 | 6622 |
+| 30d | 2026-10-20 | 24 | 105 | 97 | 28 | 123 | 104 |
+| last60d | 2026-09-20 | 59 | 207 | 133 | 80 | 191 | 203 |
+| 90d | 2026-08-21 | 97 | 249 | 159 | 206 | 249 | 249 |
+| last180d | 2026-05-23 | 100 | 421 | 204 | 724 | 273 | 409 |
+| 360d | 2025-11-24 | 100 | 3307 | 270 | 7113 | 434 | 3161 |
+| last720d | 2024-11-29 | 100 | 6914 | 270 | 14013 | 462 | 6633 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-cli-bundle.zip) | 20.3 MiB | `other` |
-| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-darwin-arm64-unsigned.zip) | 34.9 MiB | `native/darwin/arm64` |
-| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.68.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
+| [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.69.0/gemini-cli-bundle.zip) | 20.4 MiB | `other` |
+| [gemini-darwin-arm64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.69.0/gemini-darwin-arm64-unsigned.zip) | 34.8 MiB | `native/darwin/arm64` |
+| [gemini-darwin-x64-unsigned.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.69.0/gemini-darwin-x64-unsigned.zip) | 36.3 MiB | `native/darwin/x64` |
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/gemini-cli). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **24** distros on [repology.org](https://repology.org/project/gemini-cli). **9** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.66.0` | ⚠️ outdated |
+| Arch | `0.68.0` | ✅ latest |
 | Homebrew | `0.68.0` | ✅ latest |
 | Nix unstable | `0.47.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.67.0` | ⚠️ outdated |
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:50:29Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:15:55Z._
