@@ -32,28 +32,28 @@ Total: **1,504,944** lines of code across **2444** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.71.0-nightly.20261122.geecccfcd5` (2026-11-19)
+- **Latest**: `v0.71.0-nightly.20261123.geecccfcd5` (2026-11-19)
 - **Last commit**: 2026-11-20
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 108,980 · **Forks**: 14,969 · **Open issues**: 14,685 · **Contributors**: 715
+- **Stars**: 109,017 · **Forks**: 14,979 · **Open issues**: 14,690 · **Contributors**: 715
 
 ## Totals (cumulative)
 
-- **Releases**: 694 · **Merged PRs**: 6921 · **Open PRs**: 258 · **Closed issues**: 14223 · **Open issues**: 462 · **Commits**: 6640
+- **Releases**: 695 · **Merged PRs**: 6921 · **Open PRs**: 263 · **Closed issues**: 14222 · **Open issues**: 468 · **Commits**: 6640
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 24 | 103 | 85 | 34 | 114 | 111 |
-| last60d | 2026-09-23 | 61 | 200 | 121 | 86 | 193 | 210 |
-| 90d | 2026-08-24 | 99 | 254 | 141 | 189 | 228 | 256 |
-| last180d | 2026-05-26 | 100 | 427 | 188 | 710 | 271 | 416 |
-| 360d | 2025-11-27 | 100 | 3280 | 258 | 7055 | 431 | 3168 |
-| last720d | 2024-12-02 | 100 | 6921 | 258 | 14029 | 460 | 6640 |
+| 30d | 2026-10-24 | 24 | 102 | 89 | 32 | 117 | 78 |
+| last60d | 2026-09-24 | 58 | 196 | 125 | 84 | 197 | 189 |
+| 90d | 2026-08-25 | 98 | 251 | 145 | 177 | 232 | 249 |
+| last180d | 2026-05-27 | 100 | 424 | 193 | 701 | 277 | 404 |
+| 360d | 2025-11-28 | 100 | 3275 | 263 | 7033 | 437 | 3107 |
+| last720d | 2024-12-03 | 100 | 6921 | 263 | 14028 | 466 | 6640 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:42:43Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:55:52Z._
