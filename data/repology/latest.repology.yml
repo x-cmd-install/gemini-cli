@@ -146,8 +146,8 @@
   srcname: gemini-cli
   binname: gemini-cli
   visiblename: gemini-cli
-  version: 0.62.0
-  origversion: 1:0.62.0-1
+  version: 0.66.0
+  origversion: 1:0.66.0-1
   status: outdated
   summary: Open-source AI agent that brings the power of Gemini directly into your terminal
   licenses:
@@ -178,9 +178,9 @@
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-clang-x86_64-gemini-cli
   visiblename: mingw-w64-clang-x86_64-gemini-cli
-  version: 0.69.0
-  origversion: 0.69.0-1
-  status: outdated
+  version: 0.70.0
+  origversion: 0.70.0-1
+  status: newest
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -188,9 +188,9 @@
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-clang-aarch64-gemini-cli
   visiblename: mingw-w64-clang-aarch64-gemini-cli
-  version: 0.69.0
-  origversion: 0.69.0-1
-  status: outdated
+  version: 0.70.0
+  origversion: 0.70.0-1
+  status: newest
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -198,9 +198,9 @@
   srcname: mingw-w64-gemini-cli
   binname: mingw-w64-ucrt-x86_64-gemini-cli
   visiblename: mingw-w64-ucrt-x86_64-gemini-cli
-  version: 0.69.0
-  origversion: 0.69.0-1
-  status: outdated
+  version: 0.70.0
+  origversion: 0.70.0-1
+  status: newest
   summary: An open-source AI agent that brings the power of Gemini directly into your terminal (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -262,9 +262,9 @@
   binnames:
     - gemini-cli
   visiblename: gemini-cli
-  version: 0.67.0
-  origversion: 0.67.0-1.1
-  status: outdated
+  version: 0.70.0
+  origversion: 0.70.0-1.1
+  status: newest
   summary: An AI agent that brings the power of Gemini directly into your terminal
   licenses:
     - Apache-2.0
