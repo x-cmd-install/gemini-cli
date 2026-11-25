@@ -14,12 +14,12 @@ x install gemini-cli
 
 ## Code insight
 
-Total: **1,506,135** lines of code across **2446** files in the top 5 languages.
+Total: **1,506,864** lines of code across **2446** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 868,966 | 0 | 0 | 58 |
-| TypeScript | 504,323 | 41,969 | 67,750 | 1798 |
+| TypeScript | 505,052 | 41,983 | 67,803 | 1798 |
 | Tsx | 109,295 | 6,397 | 13,711 | 425 |
 | JavaScript | 9,279 | 1,116 | 1,217 | 65 |
 | Svg | 6,953 | 0 | 0 | 100 |
@@ -38,39 +38,28 @@ Total: **1,506,135** lines of code across **2446** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 109,042 · **Forks**: 14,986 · **Open issues**: 14,696 · **Contributors**: 715
+- **Stars**: 109,090 · **Forks**: 15,003 · **Open issues**: 14,705 · **Contributors**: 716
 
 ## Totals (cumulative)
 
-- **Releases**: 699 · **Merged PRs**: 6925 · **Open PRs**: 268 · **Closed issues**: 14224 · **Open issues**: 472 · **Commits**: 6643
+- **Releases**: 699 · **Merged PRs**: 6928 · **Open PRs**: 274 · **Closed issues**: 14228 · **Open issues**: 477 · **Commits**: 6645
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 27 | 106 | 92 | 28 | 115 | 81 |
-| last60d | 2026-09-25 | 61 | 197 | 130 | 82 | 201 | 192 |
-| 90d | 2026-08-26 | 99 | 254 | 150 | 178 | 235 | 252 |
-| last180d | 2026-05-28 | 100 | 426 | 198 | 682 | 281 | 407 |
-| 360d | 2025-11-29 | 100 | 3277 | 268 | 7017 | 441 | 3110 |
-| last720d | 2024-12-04 | 100 | 6925 | 268 | 14030 | 470 | 6643 |
+| 30d | 2026-10-26 | 26 | 103 | 96 | 30 | 117 | 83 |
+| last60d | 2026-09-26 | 60 | 198 | 136 | 85 | 201 | 194 |
+| 90d | 2026-08-27 | 98 | 256 | 156 | 178 | 236 | 254 |
+| last180d | 2026-05-29 | 100 | 424 | 204 | 671 | 285 | 409 |
+| 360d | 2025-11-30 | 100 | 3277 | 274 | 7007 | 445 | 3112 |
+| last720d | 2024-12-05 | 100 | 6927 | 274 | 14033 | 474 | 6645 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.71.1/gemini-cli-bundle.zip) | 24.2 MiB | `other` |
-
-## Distribution status
-
-Reported by **24** distros on [repology.org](https://repology.org/project/gemini-cli). **6** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.69.0` | ⚠️ outdated |
-| Homebrew | `0.70.0` | ✅ latest |
-| Nix unstable | `0.47.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.70.0` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +70,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:29:09Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:44:54Z._
