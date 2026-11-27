@@ -38,28 +38,39 @@ Total: **1,515,380** lines of code across **2452** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 109,160 · **Forks**: 15,011 · **Open issues**: 14,710 · **Contributors**: 716
+- **Stars**: 109,222 · **Forks**: 15,010 · **Open issues**: 14,711 · **Contributors**: 716
 
 ## Totals (cumulative)
 
-- **Releases**: 699 · **Merged PRs**: 6931 · **Open PRs**: 269 · **Closed issues**: 14231 · **Open issues**: 479 · **Commits**: 6648
+- **Releases**: 699 · **Merged PRs**: 6931 · **Open PRs**: 272 · **Closed issues**: 14231 · **Open issues**: 480 · **Commits**: 6648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 26 | 97 | 87 | 31 | 115 | 86 |
-| last60d | 2026-09-27 | 59 | 200 | 131 | 83 | 204 | 197 |
-| 90d | 2026-08-28 | 97 | 255 | 151 | 179 | 240 | 257 |
-| last180d | 2026-05-30 | 100 | 427 | 196 | 659 | 289 | 412 |
-| 360d | 2025-12-01 | 100 | 3267 | 269 | 6987 | 447 | 3115 |
-| last720d | 2024-12-06 | 100 | 6931 | 269 | 14037 | 476 | 6648 |
+| 30d | 2026-10-28 | 23 | 91 | 91 | 28 | 116 | 86 |
+| last60d | 2026-09-28 | 59 | 197 | 135 | 83 | 205 | 197 |
+| 90d | 2026-08-29 | 96 | 255 | 154 | 177 | 243 | 257 |
+| last180d | 2026-05-31 | 100 | 427 | 199 | 653 | 291 | 412 |
+| 360d | 2025-12-02 | 100 | 3246 | 272 | 6957 | 448 | 3115 |
+| last720d | 2024-12-07 | 100 | 6931 | 272 | 14037 | 477 | 6648 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [gemini-cli-bundle.zip](https://github.com/google-gemini/gemini-cli/releases/download/v0.71.1/gemini-cli-bundle.zip) | 24.2 MiB | `other` |
+
+## Distribution status
+
+Reported by **24** distros on [repology.org](https://repology.org/project/gemini-cli). **2** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.69.0` | ⚠️ outdated |
+| Homebrew | `0.71.1` | ✅ latest |
+| Nix unstable | `0.47.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.70.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -70,4 +81,4 @@ Install metadata for gemini-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:04:48Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:54:56Z._
